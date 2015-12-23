@@ -1,4 +1,4 @@
-# list_zpool_multipath_devices
+# list_zpool_multipath_devices.pl
 
 20151222 by Joe Adams, USGS
          Conception and birth. Needed a quick tool to tie zpool
